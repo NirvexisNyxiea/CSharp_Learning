@@ -1,4 +1,4 @@
-===================== 6 Ay boyunca CSharp Öğrenme SpeedRun başladı.=========================
+==== 6 Ay boyunca CSharp Öğrenme SpeedRun başladı. =====
 
 Murat Yücedağ Hocamın Youtube kanalından verdiği eğitimle başlandı. 
 
