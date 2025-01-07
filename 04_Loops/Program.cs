@@ -86,9 +86,22 @@ namespace _04_Loops
             //    }
             //}
 
+            //int bacterium = 1;
+
+            //for (int i = 1; i <= 24; i++)
+            //{
+            //    bacterium *= 2;
+            //    Console.WriteLine(i + ".saat sonunda: " + bacterium);
+            //}
+
+            #endregion
+
+            #region while döngüsü
+
 
 
             #endregion
+
 
             Console.Read();
         }
