@@ -98,9 +98,59 @@ namespace _04_Loops
 
             #region while döngüsü
 
+            //while(sart)
+            //{ islemler }
+
+            //int i = 1; 
+
+            //while (i <= 10)
+            //{
+            //    Console.WriteLine("merhaba donguler");
+            //    i++;
+            //}
+
+            //int i = 1;
+
+            //while(i <= 10)
+            //{
+            //    if (i % 3 == 0)
+            //    {
+            //        Console.WriteLine(i);
+            //    }
+            //}
+
+            //int i = 1;
+            //int sum = 0;
+
+            //while (i <= 10)
+            //{
+            //    sum += i;
+            //    i++;
+            //}
+            //Console.WriteLine(sum); 
+
+            #endregion
+
+            #region ornek Sinav Sorusu
+
+            //klavyeden girilen 3 basamaklı sayının basamakları toplamını hesaplayan kodu yazınız.
+
+            //Console.Write("sayi giriniz: ");
+            //int number= int.Parse(Console.ReadLine());
+            //int ones, tens, hundreds;
+            //int sum;
+
+            //ones = number % 10;
+            //tens = (number % 100) / 10;
+            //hundreds = number / 100;
+
+            //Console.WriteLine(hundreds + "+" + tens + "+" + ones);
+            //sum = ones + tens + hundreds;
+            //Console.WriteLine(sum);
 
 
             #endregion
+
 
 
             Console.Read();
